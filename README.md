@@ -29,13 +29,17 @@ Em desenvolvimento &nbsp;
 ## 👨🏻‍🦱 &nbsp;Social Links
 
 <p align="left" style"background:green">
+   
 <a href="https://www.instagram.com/pedro_tiago0803" target="_blank">
- <img align="center" src="https://img.shields.io/badge/PedroTiago-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/PedroTiago0803-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram"/>
 </a>
-  <a href="https://www.linkedin.com/in/pedro-devjunior" target="_blank">
- <img align="center" src="https://img.shields.io/badge/PedroTiago-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+
+<a href="https://www.linkedin.com/in/pedro-devjunior" target="_blank">
+ <img align="center" src="https://custom-icon-badges.demolab.com/badge/PedroDevJunior-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin"/>
 </a>
+
 </p>
+
 
 
 
